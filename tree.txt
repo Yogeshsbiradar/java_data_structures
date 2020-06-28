@@ -1,0 +1,11 @@
+class node{
+    node left,right;
+    int data;
+
+    public node
+}
+
+
+class tree{
+
+}
